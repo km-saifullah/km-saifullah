@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Khaled Md Saifullah</h1>
-<h3 align="center">A passionate MERN Stack developer from Bangladesh(🇧🇩)</h3>
-
+<h3 align="center">I'm a dedicated MERN Stack developer from Bangladesh. I enjoy coding and use JavaScript to simplify my daily tasks, adding more meaning to life.(🇧🇩)</h3>
+<img src="./coding.gif" aling="center" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=km-saifullah&label=Profile%20views&color=0e75b6&style=flat" alt="km-saifullah" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=km-saifullah" alt="km-saifullah" /></a> </p>
