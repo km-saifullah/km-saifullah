@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Md Saifullah</h1>
 <p align="center">I'm a dedicated MERN Stack developer from Bangladesh(🇧🇩). I enjoy coding and use JavaScript to simplify my daily tasks, adding more meaning to life.</p>
 <div align="center">
-  <img src="./coding.gif" aling="center" />
+  <img src="./coding.gif" aling="center" width="600" />
 </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=km-saifullah&label=Profile%20views&color=0e75b6&style=flat" alt="km-saifullah" /> </p>
 
