@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khaled Md Saifullah</h1>
-<p align="center">I'm a dedicated MERN Stack developer from Bangladesh(🇧🇩). I enjoy coding and use JavaScript to simplify my daily tasks, adding more meaning to life.</p>
+<p align="center">I'm a MERN stack developer who loves JavaScript and is fascinated by technology. When I'm not coding, I'm either traveling, watching TV series or experimenting with new technology. Let's connect and go exploring together</p>
 <div align="center">
   <img src="./coding.gif" aling="center" width="600" />
 </div>
